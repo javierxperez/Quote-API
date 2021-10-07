@@ -18,7 +18,6 @@ Request:
     "revenue": 10000000,
     "state": "FL",
     "business": "Plumber"
-
 }
 
 Response:
