@@ -42,3 +42,5 @@ In the future I would implement the following:
 
 
 5)We would want to setup a CI/CD pipeline once the project is complete, if we are using AZDO, we can create a build and release pipeline to build the artifacts, run unit tests, and deploy our code to a lower environment first.
+
+6)If we wish to deploy to the cloud we can have a PAAS solution in which we create an Web App/App Service and link it to our release pipeline to deploy our API to. Otherwise we could use some other form of orchestration like using containerized instances.
