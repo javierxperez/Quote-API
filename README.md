@@ -32,7 +32,7 @@ In the future I would implement the following:
 1)Authentication would be the first thing I would implement, I would implement this using JWT Authentication or OAuth depending on what makes the most sense . I would add an endpoint to pass in credentials and return back a bearer token if the credentials match what we have in the DB/key vault. This bearer token would be used as part of the authorization header for other requests
 
 
-2)Enable Authorization on the endpoints, once Authentication has been implemented we would want to deny access to those who don't have proper credentials.
+2)Enable Authorize on the endpoints, once Authentication has been implemented we would want to deny access to those who don't have proper credentials.
 
 
 3)Currently this API does not have any kind of documentation for developers to refer to, I am familiar with Swagger, so I would implement Swagger to self document the endpoints and add all necessary components needed to stand it up.
