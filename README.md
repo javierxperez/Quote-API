@@ -41,4 +41,4 @@ In the future I would implement the following:
 4)Unit Tests play an important role in testing code as part of a build, I would create a Unit test project where I would mock the controller and create tests for various situations
 
 
-5) We would want to setup a CI/CD pipeline once the project is complete, if we are using AZDO, we can create a build and release pipeline to build the artifacts, run unit tests, and deploy our code to a lower environment first.
+5)We would want to setup a CI/CD pipeline once the project is complete, if we are using AZDO, we can create a build and release pipeline to build the artifacts, run unit tests, and deploy our code to a lower environment first.
